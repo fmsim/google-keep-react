@@ -1,4 +1,4 @@
-# Getting Started with Github Desktop Application
+# Getting Started with Google Keep Application!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
