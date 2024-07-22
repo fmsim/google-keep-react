@@ -8,7 +8,7 @@ import "./App.css";
 const App = () => {
   const [note, setnote] = useState([]);
 
-  console.log(note);
+  console.log("Show note:", note);
 
   const addNote = (Notes) => {
     setnote((prevContent) => {
